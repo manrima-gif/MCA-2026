@@ -19,7 +19,7 @@
   - 3rd song - Title - Kava sviri
   - Performer - Petar Lyondev's
   - Work type - vocal folk song
-  - link - [](https://bnrnews.bg/en/post/410758/petar-lyondevs-choral-masterpiece-kaval-sviri)
+  - link - [(https://bnrnews.bg/en/post/410758/petar-lyondevs-choral-masterpiece-kaval-sviri)
   - released 8 years ago
   - Duration - 10:22
   - Language - Bulgarian
