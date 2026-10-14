@@ -1,5 +1,5 @@
 
-# \[BALKAN NATIONAL ANTHEMS\]
+# \[BALKAN FOLK MUSIC\]
 <!-- Version 1.0 -->
 \[WEEK1 
 - 1st song - Title - Kozarica Kolo
